@@ -11631,8 +11631,9 @@ nav.open>#drop {
 
 .home-name h1 {
   font-weight: 750;
-  -webkit-text-stroke: 0.8px #c5e8ef;
-  color: lightgrey;
+  color: white;
+  text-shadow: 0 0 30px #BEFFF5;
+  -webkit-text-stroke: 1px black;
 }
 
 .home-name h2 {
